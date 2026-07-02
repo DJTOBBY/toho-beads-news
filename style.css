@@ -3,8 +3,8 @@
   --surface: #ffffff;
   --ink: #2b2420;
   --ink-soft: #6b6058;
-  --accent: #b3542f;
-  --accent-soft: #f2e2d8;
+  --accent: #0d3a63;
+  --accent-soft: #dde6ee;
   --border: #e7ddd2;
   --radius: 14px;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .site-header {
-  background: linear-gradient(135deg, #7a3420, var(--accent));
+  background: linear-gradient(135deg, #04213d, var(--accent));
   color: #fff;
   padding: 40px 20px;
 }
