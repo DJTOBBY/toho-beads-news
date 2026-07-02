@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>トーホービーズ ワールドニュース</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>TOHO BEADS <span>ワールドニュース</span></h1>
+      <p class="subtitle">世界中のトーホービーズ関連ニュースを集めて日本語で要約</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="toolbar">
+      <div class="filter-group" id="filter-group">
+        <button class="filter-btn active" data-category="all">すべて</button>
+      </div>
+      <p class="updated-at" id="updated-at"></p>
+    </div>
+
+    <section class="news-grid" id="news-grid">
+      <p class="loading">読み込み中...</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>本サイトは公開情報をもとに独自に要約したファンメイドのニュースまとめです。TOHO CO., LTD. 公式サイトではありません。</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
