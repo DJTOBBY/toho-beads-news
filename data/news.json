@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02",
+  "updatedAt": "2026-07-03",
   "articles": [
     {
       "id": "hobby-show-2026",
@@ -210,6 +210,206 @@
       "summary": "TOHO BEADSは、世界中の上級ビーズデザイナーを紹介する「TOHO BEADS ADVANCED DESIGNERS」プログラムを展開。デザイナーたちのサクセスストーリーやインスパイアされた作品を紹介しており、TOHOビーズを使ったクリエイションの幅広さと国際的な広がりを伝えている。",
       "sourceName": "TOHO BEADS公式サイト",
       "sourceUrl": "https://www.tohobeads.net/"
+    },
+    {
+      "id": "toho-challenge-2024-light-shine-in",
+      "title": "TOHOチャレンジ2024「Let the Light Shine In」、ステンドグラスをテーマに開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2024-09-15",
+      "summary": "2024年のTOHOチャレンジは、ステンドグラスの美しさにインスパイアされた「Let the Light Shine In」をテーマに開催された。Huib Peters、川島裕子、Betty Coxら世界各国のフィーチャードデザイナーが同じビーズパレットを使い、それぞれの個性を活かした作品を発表。作品応募の締切は9月15日に設定された。",
+      "sourceName": "TOHO BEADS公式サイト",
+      "sourceUrl": "https://www.tohobeads.net/the-2024-toho-challenge/"
+    },
+    {
+      "id": "toho-challenge-2023-nothing-gold",
+      "title": "TOHOチャレンジ2023「Nothing Gold Can Stay」開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2023-01-01",
+      "summary": "2023年のTOHOチャレンジのテーマは「Nothing Gold Can Stay」。フィーチャードデザイナーたちに共通のビーズパレットが配布され、それぞれが自分のスタイルで作品を制作。世界中のビーズ作家が同じテーマで多様な表現に挑戦する、TOHOチャレンジ恒例の国際企画として実施された。",
+      "sourceName": "TOHO BEADS公式サイト",
+      "sourceUrl": "https://www.tohobeads.net/the-2023-toho-challenge/"
+    },
+    {
+      "id": "toho-challenge-2022-dawn-new-day",
+      "title": "【過去】TOHOチャレンジ2022「Dawn of a New Day」開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2022-01-01",
+      "summary": "2022年のTOHOチャレンジのテーマは「Dawn of a New Day」。世界各国のデザイナーが共通パレットのビーズを使い、新しい夜明けをイメージした作品を制作した。展示の様子はInstagramやFacebookでも紹介され、TOHOチャレンジの国際的な広がりを示す1年となった。",
+      "sourceName": "TOHO BEADS公式サイト",
+      "sourceUrl": "https://www.tohobeads.net/2022/2022thc.html"
+    },
+    {
+      "id": "toho-challenge-2021-modern-traditions",
+      "title": "【過去】TOHOチャレンジ2021「Modern Traditions」開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2021-01-01",
+      "summary": "2021年のTOHOチャレンジのテーマは「Modern Traditions」。伝統と現代性を融合させたデザインをコンセプトに、世界中のビーズ作家が共通のカラーパレットを使ってオリジナル作品を制作した。",
+      "sourceName": "TOHO BEADS公式サイト",
+      "sourceUrl": "https://www.tohobeads.net/news/the-2021-toho-challenge/"
+    },
+    {
+      "id": "toho-challenge-2020-spectrum-of-joy",
+      "title": "【過去】TOHOチャレンジ2020「Spectrum of Joy」開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2020-01-01",
+      "summary": "2020年のTOHOチャレンジのテーマは「Spectrum of Joy」。喜びを彩り豊かなスペクトラムで表現するというコンセプトのもと、世界中のデザイナーが共通ビーズパレットを使った作品づくりに取り組んだ。",
+      "sourceName": "Team TOHO",
+      "sourceUrl": "https://teamtoho.net/challenges-and-contests/"
+    },
+    {
+      "id": "toho-challenge-2019-california-sunset",
+      "title": "【過去】TOHOチャレンジ2019、カリフォルニアの夕暮れをテーマに開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2019-01-01",
+      "summary": "2019年のTOHOチャレンジは「カリフォルニアの砂浜と夕暮れの波を思い浮かべて」という南西部の色彩にインスパイアされたテーマで開催。世界各地のビーズ作家が同じカラーパレットのもと、思い思いの作品を制作した。",
+      "sourceName": "Team TOHO",
+      "sourceUrl": "https://teamtoho.net/challenges-and-contests/2019-toho-challenge/"
+    },
+    {
+      "id": "toho-challenge-2018-mini",
+      "title": "【過去】2018 TOHOミニチャレンジ開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2018-01-01",
+      "summary": "2018年は通常のTOHOチャレンジに加え、より参加しやすい「ミニチャレンジ」形式の企画も実施された。TeamTOHOが主催し、世界中のビーズ愛好者がより気軽にTOHOビーズを使った創作に参加できる機会となった。",
+      "sourceName": "Team TOHO",
+      "sourceUrl": "https://teamtoho.net/2018-toho-mini-challenge/"
+    },
+    {
+      "id": "company-founding-1951",
+      "title": "【過去】1951年11月3日、広島でトーホービーズ創業",
+      "category": "コミュニティ",
+      "country": "日本",
+      "date": "1951-11-03",
+      "summary": "トーホービーズは1951年11月3日、広島の三篠町で創業。創業者・山仲一二氏は戦地から、原爆で焼け野原となった故郷・広島に帰還し、「社会や世界に美しい色を届けたい」という思いからガラスビーズづくりを始めた。この理念は現在も「人と人をつなぐビーズ」というブランドの根幹に受け継がれている。",
+      "sourceName": "TOHO BEADS公式サイト",
+      "sourceUrl": "https://www.tohobeads.net/history/"
+    },
+    {
+      "id": "bead-button-show-2019",
+      "title": "【過去】米ビーズ&ボタンショー2019にTeamTOHOが出展",
+      "category": "イベント",
+      "country": "アメリカ",
+      "date": "2019-06-07",
+      "summary": "2019年6月7日〜9日、米ミルウォーキーで開催された「Bead & Button Show 2019」にTeamTOHOがブース723・822・824で出展。無料のメイク&テイク企画やデモンストレーションを実施したほか、有料($5)のワークショップエリアでトップデザイナーと一緒にビーズビーズやピアスを作れる企画も好評だった。",
+      "sourceName": "Team TOHO",
+      "sourceUrl": "https://teamtoho.net/events/bead-button-show-2019/"
+    },
+    {
+      "id": "aiko-beads-new-shipment-2026",
+      "title": "TOHO AIKOビーズ、52色の新入荷が2026年1月に到着",
+      "category": "新製品",
+      "country": "アメリカ",
+      "date": "2026-01-09",
+      "summary": "薄壁・大きめの穴が特徴の精密円筒ビーズ「TOHO AIKO」(直径1.8mm、サイズ11/0)について、52色の新入荷が2026年1月9日にアメリカの卸売業者BobbyBeadに到着したことが案内された。AIKOビーズは900色以上のバリエーションを誇り、ペヨーテステッチやブリックステッチ、織り技法などに人気が高い。",
+      "sourceName": "BobbyBead",
+      "sourceUrl": "https://bobbybead.net/store/retail/index.php?main_page=index&cPath=8"
+    },
+    {
+      "id": "treasure-beads-200-colors",
+      "title": "TOHO Treasureビーズ、200色以上のカラーバリエーションを展開",
+      "category": "新製品",
+      "country": "アメリカ",
+      "date": "2026-07-03",
+      "summary": "薄壁で大きめの穴を持つ高品質円筒ビーズ「TOHO Treasure」が、200色以上の豊富なカラーバリエーションでアメリカの専門店で展開されていることが紹介された。何度も糸を通せる設計により、複雑なビーズワーク作品にも適している。",
+      "sourceName": "Artbeads.com",
+      "sourceUrl": "https://artbeads.com/toho-type-treasure-beads/"
+    },
+    {
+      "id": "djtobby-note-article-2025",
+      "title": "note公式キャラクター「DJ TOBBY」が語る、トーホービーズという会社",
+      "category": "コミュニティ",
+      "country": "日本",
+      "date": "2025-06-18",
+      "summary": "トーホー株式会社のエンタメキャラクター「DJ TOBBY」名義のnote記事が、1951年創業・70年以上の歴史を持つ広島のビーズ専門メーカーとしての同社を紹介。「小さな粒で人と心をつなぐ」というコンセプトのもと、世界40カ国以上に輸出される品質水準や、G7広島サミットでの折鶴ブローチ採用、教育事業「日本シードビーズ協会」の運営など、ビーズを通じたブランドの取り組みを伝えている。",
+      "sourceName": "note (DJ TOBBY)",
+      "sourceUrl": "https://note.com/tohobeads/n/n66d41a4b100a"
+    },
+    {
+      "id": "japan-seed-bead-association",
+      "title": "トーホーが運営する「日本シードビーズ協会」、ビーズ教育を展開",
+      "category": "コミュニティ",
+      "country": "日本",
+      "date": "2026-07-03",
+      "summary": "トーホー株式会社が運営する「日本シードビーズ協会」は、ビーズの基礎技術を正しく学べる“ビーズスクール”として、デザイナーやインストラクターを目指す人向けの理想的なカリキュラムを提供している。ビーズメーカー自らが教育の場を持つことで、技術と文化の継承を後押ししている。",
+      "sourceName": "日本シードビーズ協会",
+      "sourceUrl": "http://www.seedbeads.jp/"
+    },
+    {
+      "id": "scheepjes-toho-collab-netherlands",
+      "title": "オランダの毛糸ブランドScheepjesとTOHOがコラボ、44色のビーズパックを展開",
+      "category": "コラボ",
+      "country": "オランダ",
+      "date": "2022-02-14",
+      "summary": "オランダの毛糸ブランドScheepjesとTOHOがコラボレーションし、44色の高品質ガラスビーズを揃えたセレクションを展開。同ブランドの人気糸「Metropolis」に色味を合わせて選定されており、他の糸と組み合わせて使うことも可能。編み物とビーズを組み合わせた新しい創作の形として海外の手芸コミュニティで紹介された。",
+      "sourceName": "cypress|textiles",
+      "sourceUrl": "https://cypresstextiles.net/2022/02/14/metropolis-minis-new-project/"
+    },
+    {
+      "id": "russia-toho-catalog-4500",
+      "title": "ロシアの専門店で4500色以上のTOHOビーズカタログが常時展開",
+      "category": "お知らせ",
+      "country": "ロシア",
+      "date": "2026-07-03",
+      "summary": "ロシアの手芸専門店が「日本製TOHOビーズ、4500色以上が在庫あり」と案内するなど、現地のビーズ専門店でTOHOの豊富なカラーバリエーションが継続的に取り扱われていることが確認された。ロシア語圏の手芸コミュニティでもTOHOビーズの精度の高さや均一性が評価されている。",
+      "sourceName": "melodiabisera.ru",
+      "sourceUrl": "https://melodiabisera.ru/category/biser-yaponskiy-toho/"
+    },
+    {
+      "id": "uk-retail-expansion",
+      "title": "イギリスの複数の手芸専門店でTOHOビーズの取り扱いが拡大",
+      "category": "お知らせ",
+      "country": "イギリス",
+      "date": "2026-07-03",
+      "summary": "イギリスではTotally Beads、The Bead Store、i-beads、ロンドンのMacCulloch & Wallisなど複数の専門店がTOHOビーズを継続的に取り扱っている。The Bead Storeでは新着コーナーで随時TOHO製品を含む新商品が更新されており、現地のビーズクラフトコミュニティに安定して供給されている。",
+      "sourceName": "The Bead Store (UK)",
+      "sourceUrl": "https://thebeadstore.co.uk/collections/toho-seed-beads"
+    },
+    {
+      "id": "australia-retail-expansion",
+      "title": "オーストラリア各地の専門店でTOHOビーズが定番商品に",
+      "category": "お知らせ",
+      "country": "オーストラリア",
+      "date": "2026-07-03",
+      "summary": "オーストラリアではGenschi、Banjo's Bead House、The Bead Lady、シドニーのKalitheoなど複数の専門店がTOHOビーズを取り扱い。大手手芸チェーンSpotlightでもRibtex経由でTOHOのシルバーライン系ビーズが販売されるなど、現地での流通網が着実に広がっている。",
+      "sourceName": "Kalitheo (Australia)",
+      "sourceUrl": "https://kalitheo.com.au/collections/toho-seed-beads"
+    },
+    {
+      "id": "poland-retail-expansion",
+      "title": "ポーランドの専門店でも日本製TOHOビーズの人気が定着",
+      "category": "お知らせ",
+      "country": "ポーランド",
+      "date": "2026-07-03",
+      "summary": "ポーランドではkorallo.pl、koralikowo.pl、Coricamoなど複数のビーズ専門店がTOHOビーズを取り扱い、「日本品質」を売り文句に紹介している。サイズ11/0や15/0など定番サイズを中心に、現地のジュエリー制作コミュニティに浸透している。",
+      "sourceName": "korallo.pl",
+      "sourceUrl": "https://korallo.pl/koraliki-toho"
+    },
+    {
+      "id": "canada-retail-presence",
+      "title": "カナダでもTOHOビーズが主要専門店・大手チェーンで定番に",
+      "category": "お知らせ",
+      "country": "カナダ",
+      "date": "2026-07-03",
+      "summary": "カナダではi-Bead Canada、Beadazzle、Bead World Incorporatedといった専門店に加え、大手クラフトチェーンMichaels Canadaでもオンラインでの取り扱いが確認された。10,000種類以上の商品を扱うi-Bead CanadaはTOHOシードビーズを主力商品の一つとして紹介している。",
+      "sourceName": "i-Bead Canada",
+      "sourceUrl": "https://www.ibeadcanada.com/"
+    },
+    {
+      "id": "katie-dean-toho-challenge-2019-blog",
+      "title": "【過去】英国のビーズ作家Katie DeanがTOHOチャレンジ2019への参加体験を綴る",
+      "category": "コミュニティ",
+      "country": "イギリス",
+      "date": "2019-01-01",
+      "summary": "イギリスのビーズフラワー作家Katie Deanが、自身のブログでTOHOチャレンジ2019への参加体験を紹介。カリフォルニアの夕暮れをテーマにした指定パレットを使い、どのように作品を発想・制作したかを綴っており、TOHOチャレンジが世界中の個人クリエイターにも創作のきっかけを与えていることがうかがえる。",
+      "sourceName": "Katie Dean, Beadflowers",
+      "sourceUrl": "https://beadflowers.co.uk/toho-challenge-2019-my-experience/"
     }
   ]
 }
