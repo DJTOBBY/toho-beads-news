@@ -19,7 +19,8 @@ function renderCards() {
     <article class="news-card">
       <div class="card-meta">
         <span class="card-category">${a.category}</span>
-        <span>${a.date}</span>
+        <span class="card-country">${a.country}</span>
+        <span class="card-date">${a.date}</span>
       </div>
       <h2>${a.title}</h2>
       <p>${a.summary}</p>

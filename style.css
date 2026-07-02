@@ -1,12 +1,12 @@
 :root {
-  --bg: #faf7f2;
+  --bg: #ffffff;
   --surface: #ffffff;
-  --ink: #2b2420;
-  --ink-soft: #6b6058;
+  --ink: #1c2024;
+  --ink-soft: #767c86;
   --accent: #0d3a63;
-  --accent-soft: #dde6ee;
-  --border: #e7ddd2;
-  --radius: 14px;
+  --accent-soft: #e7edf3;
+  --border: #e9ebef;
+  --radius: 12px;
 }
 
 * {
@@ -132,56 +132,79 @@ body {
 .news-card {
   background: var(--surface);
   border: 1px solid var(--border);
+  border-top: 2px solid var(--accent);
   border-radius: var(--radius);
-  padding: 20px;
+  padding: 22px 24px 20px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
+  gap: 12px;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.03);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .news-card:hover {
-  box-shadow: 0 8px 24px rgba(43, 36, 32, 0.08);
+  box-shadow: 0 12px 28px rgba(13, 58, 99, 0.09);
   transform: translateY(-2px);
 }
 
 .card-meta {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   font-size: 0.75rem;
   color: var(--ink-soft);
+  letter-spacing: 0.01em;
 }
 
 .card-category {
   background: var(--accent-soft);
   color: var(--accent);
-  padding: 3px 10px;
+  padding: 3px 11px;
   border-radius: 999px;
   font-weight: 600;
+}
+
+.card-country {
+  padding: 2px 9px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--ink-soft);
+}
+
+.card-date {
+  margin-left: auto;
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
 }
 
 .news-card h2 {
   margin: 0;
   font-size: 1.08rem;
-  line-height: 1.5;
+  font-weight: 600;
+  line-height: 1.55;
+  color: var(--ink);
 }
 
 .news-card p {
   margin: 0;
   font-size: 0.9rem;
-  color: var(--ink);
+  color: var(--ink-soft);
   flex: 1;
 }
 
 .card-source {
   font-size: 0.8rem;
-  margin-top: 4px;
+  margin-top: 6px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  color: var(--ink-soft);
 }
 
 .card-source a {
   color: var(--accent);
   text-decoration: none;
+  font-weight: 500;
 }
 
 .card-source a:hover {
