@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03",
+  "updatedAt": "2026-07-06",
   "articles": [
     {
       "id": "hobby-show-2026",
@@ -410,6 +410,36 @@
       "summary": "イギリスのビーズフラワー作家Katie Deanが、自身のブログでTOHOチャレンジ2019への参加体験を紹介。カリフォルニアの夕暮れをテーマにした指定パレットを使い、どのように作品を発想・制作したかを綴っており、TOHOチャレンジが世界中の個人クリエイターにも創作のきっかけを与えていることがうかがえる。",
       "sourceName": "Katie Dean, Beadflowers",
       "sourceUrl": "https://beadflowers.co.uk/toho-challenge-2019-my-experience/"
+    },
+    {
+      "id": "toho-2026-factory-tour-summer",
+      "title": "夏休み限定「親子で行くトーホービーズ工場見学ツアー」開催",
+      "category": "イベント",
+      "country": "日本",
+      "date": "2026-07-30",
+      "summary": "トーホービーズが、通常非公開の広島工場を見学できる夏休み限定ツアーを2026年7月30日に開催。参加費は貸切バス代・昼食・見学料・保険料込みで9,900円(税込)、定員40名(最少催行30名)。親子参加のほか大人のみの参加も可能で、ガラスが溶けて色づきビーズへと変わる工程を間近で見られる貴重な機会となる。参加者には子供用のミニプッシュビーズおもちゃ、大人用のビーズ入りオリジナルマドラーの記念品も用意されている。",
+      "sourceName": "note (TOHOBEADS by DJ TOBBY)",
+      "sourceUrl": "https://note.com/tohobeads/n/nf7f0688c3ace"
+    },
+    {
+      "id": "toho-2025-logo-renewal",
+      "title": "トーホービーズ、新コーポレートメッセージ「Connecting People」とともにロゴを刷新",
+      "category": "お知らせ",
+      "country": "日本",
+      "date": "2025-12-10",
+      "summary": "トーホー株式会社が、新しいコーポレートメッセージ「Connecting People」を掲げ、ロゴマークを刷新したことを公式サイトで発表。ビーズを通じて人と人とをつなぎ、誰もが優しさを広げられる平和で活気ある社会の実現を目指すという企業理念が込められている。",
+      "sourceName": "TOHO BEADS公式サイト",
+      "sourceUrl": "http://www.toho-beads.co.jp/pickup/2025/20251210.html"
+    },
+    {
+      "id": "beads-biennale-2026-theme-jury",
+      "title": "第6回インターナショナルビーズビエンナーレひろしま2026、テーマは「美と愛と平和」審査員・賞を発表",
+      "category": "コンテスト",
+      "country": "日本",
+      "date": "2026-07-06",
+      "summary": "2013年から隔年で開催される「インターナショナルビーズビエンナーレひろしま」の第6回(2026年)公募展のテーマが「美と愛と平和」に決定。審査員にはニットデザイナーの広瀬光治氏、トーホー株式会社代表取締役の山仲巌氏らが名を連ね、大賞・広島県知事賞(予定)をはじめ金賞・銀賞・審査委員賞など多数の賞が用意されている。前回2024年の大賞は広島の木村晶子氏「大地の恵み」が受賞した。",
+      "sourceName": "note (and t) / トーホー株式会社プレスリリース",
+      "sourceUrl": "https://note.com/tohobeads_andt/n/nf139829919db"
     }
   ]
 }
