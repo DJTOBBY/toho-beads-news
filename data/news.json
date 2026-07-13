@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12",
+  "updatedAt": "2026-07-13",
   "articles": [
     {
       "id": "hobby-show-2026",
@@ -460,6 +460,16 @@
       "summary": "TOHO BEADS STYLE Tokyo Gallery t(東京都台東区柳橋)にて、2026年5月20日・21日に「NTOB POP-UP SHOWCASE」を開催。学びと物販を組み合わせた体験型イベントで、TOHOビーズ・Preciosa・Kiva Crystalなど国内外の主要ビーズ・クリスタルブランドが参加し、2026年最新トレンドをショーケース形式で紹介するとともに数量限定の販売も実施された。入場無料。",
       "sourceName": "TOHO BEADS STYLE Tokyo Gallery t",
       "sourceUrl": "http://www.toho-beads.co.jp/tbs/"
+    },
+    {
+      "id": "peace-ring-grand-connection-2026",
+      "title": "「ピースリング プロジェクト〜グランドコネクション2026〜」、広島平和記念日にアメリカで完成へ",
+      "category": "イベント",
+      "country": "国際",
+      "date": "2026-08-06",
+      "summary": "広島の平和記念日にあたる2026年8月6日、アメリカ・ミネソタ州のモール・オブ・アメリカで「ピースリング プロジェクト〜グランドコネクション2026〜」が開催される。トーホー株式会社は、日本全国から寄せられたビーズリングをつないだ「ピースリングチェーン」をアメリカへ送り、世界各地から届いたリングと一つにつないで全長1マイル(約1.6km)の「平和の輪」の完成を目指す。10年前に始まったこの取り組みは、アメリカのビーズ作家ロシェルさんの平和への願いがきっかけだった。",
+      "sourceName": "トーホー株式会社プレスリリース (value-press)",
+      "sourceUrl": "https://www.value-press.com/pressrelease/377172"
     }
   ]
 }
