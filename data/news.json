@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-12",
+  "updatedAt": "2026-07-17",
   "articles": [
+    {
+      "id": "international-beads-biennale-hiroshima-2026-tokyo",
+      "title": "「インターナショナルビーズビエンナーレひろしま2026」公募展、東京ギャラリーで開催中",
+      "category": "イベント",
+      "country": "国際",
+      "date": "2026-07-08",
+      "summary": "世界中のビーズ作家から作品を公募する国際コンテスト「インターナショナルビーズビエンナーレひろしま2026」の公募展が、2026年7月8日(水)〜7月25日(土)の日程でTOHO BEADS STYLE Tokyo Gallery t(東京都台東区柳橋1-9-11)にて開催中(10:00〜17:00、土日祝休、入場無料)。ガラスビーズ(日本製・チェコ製・ランプワーク・ダイクロイックなど素材不問)を30%以上使用した作品が対象で、「Starman Award」など複数の受賞作品を含む入選作を展示。応募は2026年4月頭に締切済み。9月には広島会場(トーホービーズ創業の地)でも展示予定。",
+      "sourceName": "TeamTOHO / Bobby Bead",
+      "sourceUrl": "https://bobbybead.com/wp-content/uploads/2025/07/guideline-2026_20250408.pdf"
+    },
     {
       "id": "peace-ring-grand-connection-2026",
       "title": "「ピースリングプロジェクト〜グランドコネクション2026〜」8月6日ミネソタで世界のリングを大連結",
