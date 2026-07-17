@@ -61,6 +61,22 @@ body {
   font-size: 0.95rem;
 }
 
+.workshop-link {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 8px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 999px;
+  color: #fff;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.workshop-link:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
 .container {
   max-width: 960px;
   margin: 0 auto;
