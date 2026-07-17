@@ -167,6 +167,16 @@ body {
   background: linear-gradient(180deg, var(--upcoming-soft) 0%, var(--surface) 90px);
 }
 
+.news-card.column {
+  border-top-color: #6b5b95;
+  border-top-style: dashed;
+}
+
+.card-category.category-column {
+  background: #efeaf7;
+  color: #6b5b95;
+}
+
 .card-meta {
   display: flex;
   flex-wrap: wrap;

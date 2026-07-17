@@ -10,13 +10,14 @@ let activeCategory = "all";
 let articles = [];
 
 function cardHtml(a, { upcoming = false } = {}) {
+  const isColumn = a.category === "コラム";
   const dateLabel = upcoming
     ? `<span class="card-date badge-upcoming">開催予定: ${a.date}</span>`
     : `<span class="card-date">${a.date}</span>`;
   return `
-    <article class="news-card${upcoming ? " upcoming" : ""}">
+    <article class="news-card${upcoming ? " upcoming" : ""}${isColumn ? " column" : ""}">
       <div class="card-meta">
-        <span class="card-category">${a.category}</span>
+        <span class="card-category${isColumn ? " category-column" : ""}">${a.category}</span>
         <span class="card-country">${a.country}</span>
         ${dateLabel}
       </div>
