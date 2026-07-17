@@ -17,6 +17,12 @@ TOHO_RE = re.compile(r"toho|トーホー", re.IGNORECASE)
 EXEMPT_CATEGORIES = {"コラム"}
 REQUIRED_FIELDS = ["id", "title", "category", "country", "date", "summary", "sourceName", "sourceUrl"]
 
+# Heuristic only: flags likely Japanese personal names ("漢字...さん/氏") so a
+# human can double-check the kanji wasn't guessed from a romanized English
+# source. It cannot verify correctness, only prompt a second look.
+JP_NAME_RE = re.compile(r"[一-鿿]{2,4}(さん|氏)")
+JP_CHAR_RE = re.compile(r"[぀-ヿ一-鿿]")
+
 
 def main():
     errors = []
@@ -59,6 +65,14 @@ def main():
                     f"{label}: verificationQuote does not mention TOHO/トーホー — "
                     "this looks like an unverified claim, see CLAUDE.md"
                 )
+
+        text = f"{a.get('title', '')} {a.get('summary', '')}"
+        if JP_NAME_RE.search(text) and not JP_CHAR_RE.search(a.get("sourceName", "")):
+            warnings.append(
+                f"{label}: contains a possible Japanese personal name but sourceName "
+                "doesn't look Japanese-language — double-check the kanji wasn't guessed "
+                "from a romanized English source, see CLAUDE.md"
+            )
 
     print(f"Checked {len(articles)} articles.")
     if warnings:
