@@ -34,3 +34,20 @@ python3 scripts/validate_news.py
 - `コラム` 以外の記事に `verificationQuote` があるか、およびTOHOへの言及を含んでいるか(警告)
 
 このスクリプトはPush時にGitHub Actions (`.github/workflows/validate-news.yml`) でも自動実行される。
+
+## 定期更新の進め方:カテゴリを1つずつ巡回して検索する
+
+「ニュースを更新して」と頼まれたら、思いつきで1〜2件検索して終わらせず、**既存カテゴリを毎回すべて巡回し、それぞれ新規で検索をかけて**新しいネタがないか確認すること。カテゴリは今後も増やしてよいが、増やしたら下の一覧にも追記する。
+
+| カテゴリ | 探す対象 | 検索の起点 |
+|---|---|---|
+| イベント | 展示会・ワークショップ・フェア | 日本ホビーショー、TOHO BEADS STYLE Tokyo Gallery t、Peatixイベントページ(直接取得不可、WebSearch経由) |
+| コンテスト | TOHOチャレンジ、ビエンナーレ等の公募・受賞 | tohobeads.net、TeamTOHO、Bobby Bead |
+| 新製品 | 新色・新形状・新ライン | tohobeads.net/newsproduct、Beadaholique、Artbeads.com |
+| コミュニティ | ピースリング等の社会貢献・非営利活動 | note (DJ TOBBY)、value-press プレスリリース |
+| お知らせ | ロゴ刷新、価格改定、メディア掲載 | 各国代理店・専門店サイト、fashion tech news等のメディア |
+| コラボ | 他ブランドとの提携企画 | ※要注意カテゴリ。Scheepjes誤報の教訓通り、提携の事実を情報源で直接確認できるまで記事化しない |
+| 作家紹介 | TOHOビーズを使う個人の作家・デザイナー(SNSは使わず、本人が運営するサイトを持つ人を対象) | tohobeads.net/advanced-designers/(日本シードビーズ協会認定)、teamtoho.net/members/(海外デザイナー・小売) |
+| コラム | TOHOとの直接関係が未確認の、世界のビーズ文化紹介 | 地域を限定せず幅広く。本文に関連未確認の注記を入れる |
+
+この一覧に沿って全カテゴリを検索し、見つかった候補はいつも通り`verificationQuote`で裏取りしてから追加する。

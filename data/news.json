@@ -2,6 +2,28 @@
   "updatedAt": "2026-07-17",
   "articles": [
     {
+      "id": "designer-spotlight-suto-kimie",
+      "title": "【作家紹介】須藤希美恵さん――TOHO公認アドバンスドデザイナー、認定講師テキストの著者",
+      "category": "作家紹介",
+      "country": "日本",
+      "date": "2026-07-17",
+      "summary": "須藤希美恵さんは、日本シードビーズ協会が認定するTOHO公式「ADVANCED DESIGNERS」に名を連ねるビーズ作家。東京都心・千葉県内の複数拠点でビーズ教室の講師を務め、TOHO認定ビーズ講座の教本『モダンビーディングステッチ』『トラディショナルビーディングステッチ』の著者でもある。2008年「ビーズアートジャパン」では文部科学大臣賞を受賞。スタイリッシュで作りやすいデザインが幅広い層のビーズ愛好家から支持されている。個人ブログ「ビーズ制作と毎日の暮らし」(ameblo.jp/felice-kimie/)で制作の様子を発信中。",
+      "sourceName": "TOHO BEADS公式サイト(ADVANCED DESIGNERS)",
+      "sourceUrl": "https://www.tohobeads.net/advanced-designers/suto-kimie/",
+      "verificationQuote": "SUTO Kimie – TOHO BEADS / ADVANCED DESIGNERS(日本シードビーズ協会認定)。TOHOの各種認定ビーズ講座向け教本『Modern Beading Stitches』『Traditional Beading Stitches』の著者。"
+    },
+    {
+      "id": "designer-spotlight-studio-silver-bliss",
+      "title": "【作家紹介】Studio Silver Bliss――カナダ・イエローナイフのTOHOビーズ作家",
+      "category": "作家紹介",
+      "country": "カナダ",
+      "date": "2026-07-17",
+      "summary": "カナダ北西準州イエローナイフを拠点とするStudio Silver Blissは、2006年からジュエリー・ビーズ資材の制作販売を行うファインジュエリー/ビーズアート工房。TOHOビーズの正規取扱・提携先を集めた「Team TOHO」の公式会員ディレクトリにDesignerとして登録されており、丸小・トレジャー・アイコ・キューブ・バグルなど幅広いTOHOビーズシリーズを使用した作品やキットを展開。2019年からはEtsyショップ(StudioSilverBliss)でも販売しており、平均評価4.8以上を獲得している。",
+      "sourceName": "Team TOHO 公式メンバーディレクトリ",
+      "sourceUrl": "https://teamtoho.net/members/studio-silver-bliss/",
+      "verificationQuote": "STUDIO SILVER BLISS ... They supply Round, Treasure, Aiko, Cube, Bugle, Mixes, and Bead Kits of TOHO beads."
+    },
+    {
       "id": "column-maasai-beadwork-culture",
       "title": "【コラム】マサイ族の伝統ビーズ文化――色と模様に込められた意味",
       "category": "コラム",
