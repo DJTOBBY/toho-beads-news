@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-27",
   "articles": [
+    {
+      "id": "germany-twinkle-beads-dortmund",
+      "title": "ドイツ・ドルトムントのビーズ専門店「Twinkle Beads」がTOHOロカイユを取り扱い、DJ TOBBYのビーズラジオが初のドイツ収録",
+      "category": "お知らせ",
+      "country": "ドイツ",
+      "date": "2026-03-27",
+      "summary": "トーホービーズ公式note「TOHOBEADS note by DJ TOBBY」のビーズラジオ第358回が、初めてドイツで収録された。訪問先はドイツ・ドルトムントで2005年に阿部沙織さんが創業したビーズ専門店「Twinkle Beads」。同店はスワロフスキー・エレメントとともにTOHOロカイユ(シードビーズ)やMIYUKIデリカビーズも専門的に取り扱っており、ドイツの手芸コミュニティに日本製ビーズを届けてきた。",
+      "sourceName": "Twinkle Beads (ドイツ) / TOHOBEADS note by DJ TOBBY",
+      "sourceUrl": "https://note.com/tohobeads/n/nbecf1b6a0c47",
+      "verificationQuote": "Twinkle Beads - Ihr Online-Shop für Swarovski Elements, Toho Rocailles, Miyuki Delicas und Zubehör"
+    },
     {
       "id": "designer-spotlight-suto-kimie",
       "title": "【作家紹介】周藤紀美恵さん――TOHO公認アドバンスドデザイナー、専業主婦からビーズ作家へ",
