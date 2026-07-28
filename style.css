@@ -71,19 +71,41 @@ body {
 }
 
 .logo-badge {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   background: #fff;
-  padding: 10px 18px;
-  border-radius: 10px;
+  padding: 8px 20px 8px 8px;
+  border-radius: 999px;
   margin-bottom: 18px;
   border: 2.5px solid var(--border);
   box-shadow: var(--shadow-sm);
 }
 
-.logo-img {
-  display: block;
-  height: 28px;
-  width: auto;
+.logo-mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--yellow);
+  border: 2.5px solid var(--border);
+  color: var(--ink);
+  font-weight: 900;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.logo-text {
+  font-weight: 900;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+}
+
+.logo-text-accent {
+  color: var(--pink);
 }
 
 .site-header h1 {
