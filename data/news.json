@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-28",
   "articles": [
+    {
+      "id": "beadaholique-designer-palettes-2026",
+      "title": "米Beadaholique、TOHOシードビーズの新デザイナーパレットを展開",
+      "category": "新製品",
+      "country": "アメリカ",
+      "date": "2026-07-28",
+      "summary": "米国のビーズ専門店Beadaholiqueが、TOHOの丸小シードビーズ(11/0)を使った新しい「Exclusive Designer Palette」シリーズを展開。各パレットはデザインチームが厳選した4色のチューブをセットにしたもので、レインボーシルバーライン、オンブレグリーンなど複数のカラーテーマが用意されている。同店では200色以上のTOHOシードビーズを15/0・11/0・8/0・6/0の各サイズで取り扱っている。",
+      "sourceName": "Beadaholique",
+      "sourceUrl": "https://beadaholique.com/collections/new-exclusive-designer-toho-seed-bead-palettes",
+      "verificationQuote": "New Exclusive Designer Toho Seed Bead Palettes ... each palette includes 4 tubes of 11/0 round Toho seed beads with colors expertly chosen by their design team."
+    },
+    {
+      "id": "toho-beads-mitsuketa-campaign",
+      "title": "「トーホービーズみーつけた。」TOHO公式のUGC動画キャンペーンが展開中",
+      "category": "コミュニティ",
+      "country": "日本",
+      "date": "2026-07-28",
+      "summary": "TOHOBEADS公式note「DJ TOBBY」発、店頭やイベント会場、あるいは自分の作品の中でTOHOビーズを「みーつけた」瞬間を、専用テーマ曲に合わせたリール動画で撮影・投稿するUGC(ユーザー生成コンテンツ)キャンペーン「トーホービーズみーつけた。」が展開されている。ハッシュタグ「#トーホービーズみーつけた」を付けて投稿する参加型企画で、「Connecting People」を掲げる同社のブランドメッセージとも重なる取り組み。",
+      "sourceName": "TOHOBEADS note by DJ TOBBY",
+      "sourceUrl": "https://note.com/tohobeads/n/n44f68246270d",
+      "verificationQuote": "トーホービーズみーつけた。｜TOHOBEADS note by DJ TOBBY ... 店舗やイベントでTOHO BEADSを見つけたら、専用の曲に合わせてリール動画を撮影し「#トーホービーズみーつけた」のハッシュタグを付けて投稿"
+    },
+    {
+      "id": "column-andes-beadwork-culture",
+      "title": "【コラム】アンデスとアマゾンのビーズ文化――ケチュアとシピボ族の物語る模様",
+      "category": "コラム",
+      "country": "ペルー",
+      "date": "2026-07-28",
+      "summary": "南米ペルーのケチュアの人々は、アンデスの織物文様にインスパイアされた幾何学模様のビーズ細工を作り続けている。天体や農耕暦への信仰を反映したモチーフが特徴で、ネックレスやブレスレットに用いられる。一方、アマゾン上流域に暮らすシピボ族は、精神性の表現としてビーズを手織りし、独自の宇宙観を模様に込める。ペルー北部沿岸の16世紀の埋葬遺跡からは、ヨーロッパ由来のガラスビーズが現地産の貝や石のビーズと共に発見されており、大航海時代から交易品としてのガラスビーズが南米の文化と融合してきた歴史がうかがえる。※本コラムはTOHOビーズとの直接の取引・使用実績を確認したものではなく、世界のビーズ文化を紹介する読み物です。",
+      "sourceName": "Dequa Design / EBSCO Research Starters",
+      "sourceUrl": "https://www.dequadesign.com/blogs/news/threads-of-heritage-beaded-jewelry-traditions-of-south-america"
+    },
     {
       "id": "germany-twinkle-beads-dortmund",
       "title": "ドイツ・ドルトムントのビーズ専門店「Twinkle Beads」がTOHOロカイユを取り扱い、DJ TOBBYのビーズラジオが初のドイツ収録",
