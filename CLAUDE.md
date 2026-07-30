@@ -27,6 +27,12 @@
 python3 scripts/validate_news.py
 ```
 
+## SNSシェア時のプレビュー(OGP)
+
+`index.html` の `<!-- OGP:START -->`〜`<!-- OGP:END -->` は `scripts/generate_ogp.py` が自動生成する。`data/news.json` の中で日付が今日以下の記事のうち最新のもの(サイト本体の一覧と同じ選定基準)のタイトル・要約をog:title/og:descriptionに反映する。手で編集しない。
+
+このスクリプトは `.github/workflows/deploy.yml` でGitHub Pagesへのデプロイ直前に毎回実行されるため、`data/news.json` を更新してpushすれば、シェアプレビューも自動的に最新記事に更新される(index.html自体をコミットし直す必要はない)。
+
 チェック内容:
 - JSONとして正しくパースできるか
 - `id` の重複がないか
