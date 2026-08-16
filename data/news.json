@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-16",
   "articles": [
+    {
+      "id": "nhk-asaichi-beads-feature-2026",
+      "title": "NHK「あさイチ」のクラフト特集でビーズが紹介、TOHO公式noteも反応",
+      "category": "お知らせ",
+      "country": "日本",
+      "date": "2026-02-24",
+      "summary": "2026年2月24日放送のNHK「あさイチ」のクラフト特集で、刺繍・編み物・レジンなどと並んでビーズが取り上げられ、葛飾北斎「赤富士」をモチーフにしたビーズ作品などハンドメイド作品が紹介された。放送を受けてTOHOBEADS公式note「DJ TOBBYのビーズラジオ」が「やっぱビーズブームきてる！！」と反応し、Z世代から大人まで幅広い層を巻き込むビーズ人気の高まりを伝えた。",
+      "sourceName": "TOHOBEADS note by DJ TOBBY",
+      "sourceUrl": "https://note.com/tohobeads/n/nd177d92c6981",
+      "verificationQuote": "やっぱビーズブームきてる！！NHK「あさイチ」でビーズ特集！｜TOHOBEADS note by DJ TOBBY"
+    },
+    {
+      "id": "toho-artisan-baton-note",
+      "title": "「職人というバトンを、あなたに」トーホーが伝えるガラスビーズ職人という仕事のロマン",
+      "category": "お知らせ",
+      "country": "日本",
+      "date": "2026-08-16",
+      "summary": "TOHOBEADS公式note「DJ TOBBYのビーズラジオ」が、ガラスビーズの製造から販売までを支える職人たちの仕事を「職人というバトン」として紹介。自分たちが作るビーズが誰かの手でアクセサリーや作品になり、世界中の人に笑顔を届ける「仕事のロマン」を伝えるとともに、伝統的なものづくりと現代的な働き方を両立させている姿勢として、社員の有給休暇取得日数が平均13.4日であることも紹介。日本製ビーズづくりの誇りを次世代へつなぐ担い手を募る内容となっている。",
+      "sourceName": "TOHOBEADS note by DJ TOBBY",
+      "sourceUrl": "https://note.com/tohobeads/n/na6148376b7fc",
+      "verificationQuote": "職人というバトンを、あなたに──ガラスビーズをつくる仕事のロマン｜TOHOBEADS note by DJ TOBBY"
+    },
     {
       "id": "beadaholique-designer-palettes-2026",
       "title": "米Beadaholique、TOHOシードビーズの新デザイナーパレットを展開",
