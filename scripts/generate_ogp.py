@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_PATH = ROOT / "data" / "news.json"
 INDEX_PATH = ROOT / "index.html"
-SITE_URL = "https://djtobby.github.io/toho-beads-news/"
+SITE_URL = "https://news.tohobeads.jp/"
 DEFAULT_IMAGE = SITE_URL + "images/icons/icon-512.png"
 SITE_NAME = "トーホービーズ ワールドニュース"
 DEFAULT_DESCRIPTION = "世界中のトーホービーズ関連ニュースを集めて日本語で要約"

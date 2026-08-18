@@ -31,7 +31,13 @@ python3 scripts/validate_news.py
 
 `index.html` の `<!-- OGP:START -->`〜`<!-- OGP:END -->` は `scripts/generate_ogp.py` が自動生成する。`data/news.json` の中で日付が今日以下の記事のうち最新のもの(サイト本体の一覧と同じ選定基準)のタイトル・要約をog:title/og:descriptionに反映する。手で編集しない。
 
-このスクリプトは `.github/workflows/deploy.yml` でGitHub Pagesへのデプロイ直前に毎回実行されるため、`data/news.json` を更新してpushすれば、シェアプレビューも自動的に最新記事に更新される(index.html自体をコミットし直す必要はない)。
+このスクリプトは `.github/workflows/deploy-lolipop.yml` でロリポップへのFTPデプロイ直前に毎回実行されるため、`data/news.json` を更新してpushすれば、シェアプレビューも自動的に最新記事に更新される(index.html自体をコミットし直す必要はない)。
+
+## デプロイ先: ロリポップ (news.tohobeads.jp)
+
+`main` へのpushで `.github/workflows/deploy-lolipop.yml` が自動起動し、FTPS経由でロリポップのサブドメイン `news.tohobeads.jp`(公開フォルダ: `news/`)へアップロードする。GitHub Pagesへのデプロイは廃止済み。
+
+FTP接続情報はリポジトリの Secrets (`FTP_SERVER` / `FTP_USERNAME` / `FTP_PASSWORD`) に登録されている。ロリポップのFTP・WebDAVアカウント設定画面で確認・変更できる。
 
 チェック内容:
 - JSONとして正しくパースできるか
