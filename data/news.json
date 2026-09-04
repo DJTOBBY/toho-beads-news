@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-04",
   "articles": [
+    {
+      "id": "venice-glass-week-2026-toho-challenge",
+      "title": "「Toho Beads Challenge: Venice and Japan」ムラーノ島ガラス美術館で9月12日〜20日開催",
+      "category": "コンテスト",
+      "country": "イタリア",
+      "date": "2026-09-12",
+      "summary": "ヴェネチア市立美術館財団(Fondazione Musei Civici di Venezia)主催、トーホービーズ・広島市協力による展示会「Toho Beads Challenge: Venice and Japan」が、2026年9月12日(土)〜20日(日)の期間、ムラーノ島のガラス美術館(Museo del Vetro)を会場に開催される。会期中は毎日10:30〜17:30。2026年TOHOチャレンジのテーマ「You are Mermazing」のもとトーホーが提供する指定カラーパレットとビーズを使って世界中のデザイナー・作家が制作した作品を展示するもので、日本の芸術的伝統や伝説・人魚の世界観にインスパイアされた作品が並ぶ。初日の9月12日(土)11:30〜12:30には内覧会(inauguration)が開催される。",
+      "sourceName": "The Venice Glass Week",
+      "sourceUrl": "https://theveniceglassweek.com/en/eventi/toho-beads-challenge-venice-and-japan/",
+      "verificationQuote": "Toho Beads Challenge: Venice and Japan / Event organised by Fondazione Musei Civici Venezia / In collaboration with Toho Beads, Città di Hiroshima / Founded in Hiroshima in 1951, Toho Beads is one of Japan's most renowned manufacturers of glass beads... In 2013, the company launched the Toho Challenge... This year's theme is \"You Are Mermazing.\""
+    },
     {
       "id": "designer-spotlight-tama-swain-salomon-2026",
       "title": "【作家紹介】Tama (Cliff) Swain-Salomon氏、Museum of Beadworkのゲストアーティストに――TOHOビーズギャラリーでの展示歴も",
