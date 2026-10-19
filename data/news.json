@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-19",
   "articles": [
     {
       "id": "venice-glass-week-2026-toho-challenge",
@@ -639,6 +639,27 @@
       "sourceName": "TOHO BEADS公式サイト(ADVANCED DESIGNERS)",
       "sourceUrl": "https://www.tohobeads.net/advanced-designers/yamada-emi/",
       "verificationQuote": "YAMADA Emi – TOHO BEADS (ADVANCED DESIGNERS page title) ... a fellow member of the Bead Society of Japan ... gained expertise in a broad range of beading techniques, from off-loom and bead crochet to wirework and bead embroidery ... taught classes at her \"Atelier Chocoo\" in Hiroshima ... taught classes at the Bead & Button show in Milwaukee, WI since 2011 ... the grand prize of Costume Jewelry Bridal Contest at the Bead Art Japan in 2009 and the Bronze Creator Award at the Arts J Crafts Exhibition in 2015."
+    },
+    {
+      "id": "eureka-nocturnal-bloom-collection-2026-08",
+      "title": "米Eureka Crystal Beads、TOHOビーズを使った「Nocturnal Bloom Collection」を8月の月替わりキットに",
+      "category": "コラボ",
+      "country": "アメリカ",
+      "date": "2026-08-01",
+      "summary": "アメリカのビーズ専門店Eureka Crystal Beadsが、2026年8月の月替わりビーズキット「Nocturnal Bloom Collection」を発表。夜に咲く花をイメージした紫系パレットで、TOHO丸小ビーズ15/0のシルバーラインパープル、同8/0のメタリックアイリスパープル、TOHOトレジャービーズ11/0のガルバナイズドカーニバルをアクセントに使用。MIYUKIの丸小・バグルビーズ、チェコガラスのGemDuo・Teacupビーズ、ファイアポリッシュなどと組み合わせたセット内容になっている。",
+      "sourceName": "Eureka Crystal Beads",
+      "sourceUrl": "https://www.eurekacrystalbeads.com/blogs/whats-in-the-nocturnal-bloom-collection-explore-eurekas-august-2026-beading-kit/",
+      "verificationQuote": "TOHO Round 15/0 Seed Beads – Silver Lined Purple (2.5\" tube) ... TOHO Round 8/0, Metallic Iris Purple ... TOHO Treasure Seed Beads 11/0 – Galvanized Carnival (2.5\" tube)"
+    },
+    {
+      "id": "column-native-american-plains-beadwork",
+      "title": "【コラム】北米先住民のビーズ文化――交易ガラスビーズが育んだプレーンズ・グレートレイクスのビーズワーク",
+      "category": "コラム",
+      "country": "アメリカ",
+      "date": "2026-10-19",
+      "summary": "北米の先住民族の間では、16世紀以降ヨーロッパとの交易によってガラスビーズがもたらされ、それまで貝殻・骨・種などの天然素材で作られていた装身具やモカシン、バッグの装飾に用いられるようになった。特に小粒の「シードビーズ」が広く普及したのは1850年代以降で、プレーンズやグレートレイクスの各地域で独自のビーズワーク文化が発展した。配色には地域ごとに意味が込められ、北極圏西部の文化では青いビーズが特に重要視されたという。※本コラムはTOHOビーズとの直接の取引・使用実績を確認したものではなく、世界のビーズ文化を紹介する読み物です。",
+      "sourceName": "Crazy Crow Trading Post",
+      "sourceUrl": "https://www.crazycrow.com/french-beads"
     }
   ]
 }
