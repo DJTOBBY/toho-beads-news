@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-21",
   "articles": [
+    {
+      "id": "color-story-palette-app-2026",
+      "title": "TOHO公式WEBアプリ「COLOR STORY PALETTE」が大バズり、言葉を入力するだけでビーズ配色が完成",
+      "category": "新製品",
+      "country": "日本",
+      "date": "2026-10-09",
+      "summary": "トーホービーズが2026年10月9日、無料のWEBアプリ「COLOR STORY PALETTE」(palette.tohobeads.jp)を公式Xで公開。場所・記憶・物語・流行語・和の色名などの言葉を入力するだけで、トーホービーズの実在する品番と結びついた2〜8色のカラーパレットが自動生成される。生成結果はA4のPDFやInstagram向けの1080×1350pxのJPEGカードとして保存可能。公開直後からSNSで急速に拡散し、公開から数日でインプレッション1,600万回以上、リツイート5万・いいね8万・ブックマーク10万件を突破する話題となり、ファッション誌(non-no)や海外メディア(香港hk01)でも取り上げられた。開発の背景には「福袋の色の組み合わせに迷う」という課題があったという。",
+      "sourceName": "トーホービーズ公式X / note(さとぼし通信)",
+      "sourceUrl": "https://x.com/tohobeads/status/2103268244023054687",
+      "verificationQuote": "「月夜」とCOLOR STORY PALETTE に入力してみたら、夜の静けさを思わせる和の色名とトーホーの品番が結びついたパレットが生まれました🌕 あなたの見上げるお月様は、何色に見えますか？ あなたの好きな言葉を入れてみて #COLORSTORYPALETTE #十五夜 #トーホービーズ"
+    },
     {
       "id": "venice-glass-week-2026-toho-challenge",
       "title": "「Toho Beads Challenge: Venice and Japan」ムラーノ島ガラス美術館で9月12日〜20日開催",
