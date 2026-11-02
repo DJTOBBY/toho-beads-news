@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-02",
   "articles": [
+    {
+      "id": "senken-shimbun-toho-beads-materials-feature-2026",
+      "title": "繊研新聞がトーホービーズの経営戦略を特集、「蔵出しビーズ」と「TOHO BEADS MATERIALS」をファッション業界向けに紹介",
+      "category": "お知らせ",
+      "country": "日本",
+      "date": "2026-10-16",
+      "summary": "アパレル・繊維業界向けの専門紙「繊研新聞」(繊研plus)が、広島のガラスビーズメーカー・トーホーの経営戦略を特集。海外向け特注品の余剰分を国内限定品として売り出す「蔵出しビーズ」が、一期一会のプレミアム価値を打ち出すことで主力商品に育った経緯や、靴工場の端革など他産業と連携したセレクトブランド「TOHO BEADS MATERIALS」の展開、言葉からビーズの配色イメージを提案するAI活用アプリの開発など、自社ギャラリーでの実験販売からSNSの口コミを経て全国の主要店舗へ広がった「独自企画でファンをつかむ」戦略を紹介した。ビーズ専門メディアではなく、ファッション業界の専門紙に取り上げられたことで、業界内での注目度の高さがうかがえる。2026年10月30日にはファッションニュースサイト「FASHIONSNAP」にも転載された。",
+      "sourceName": "繊研新聞(繊研plus) / FASHIONSNAP",
+      "sourceUrl": "https://senken.co.jp/posts/toho-261016",
+      "verificationQuote": "ガラスビーズのトーホー 眠る素材に新たな価値、独自企画でファンをつかむ（繊研新聞 記事見出しより）"
+    },
     {
       "id": "color-story-palette-app-2026",
       "title": "TOHO公式WEBアプリ「COLOR STORY PALETTE」が大バズり、言葉を入力するだけでビーズ配色が完成",
