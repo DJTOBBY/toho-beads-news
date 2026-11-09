@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-09",
   "articles": [
+    {
+      "id": "apparel-x-toho-beads-feature-2025",
+      "title": "アパレル業界向けB2Bサイト「ApparelX」にTOHOビーズが出店、量産時の品質安定性をアピール",
+      "category": "お知らせ",
+      "country": "日本",
+      "date": "2025-02-18",
+      "summary": "アパレル業界向けの素材調達サイト「ApparelX」に、広島のガラスビーズメーカー・トーホーが出店したことが同サイトのブログで紹介された。手芸業界の老舗メーカーとして、量産時のロット間のばらつきが少ない品質管理の高さを強みに挙げ、アパレル業界のプロフェッショナル向けに自社製品の調達チャネルを広げた。",
+      "sourceName": "ApparelX",
+      "sourceUrl": "https://www.apparel-x.com/blog/AX_TREND/tohobeads20250218",
+      "verificationQuote": "[TOHO Beads] A long-established manufacturer in the craft industry has arrived at ApparelX!"
+    },
+    {
+      "id": "toho-challenge-2025-sonoran-sunset",
+      "title": "TOHOチャレンジ2025「Sonoran Sunset」、ソノラ砂漠の夕焼けをテーマに開催",
+      "category": "コンテスト",
+      "country": "国際",
+      "date": "2025-01-01",
+      "summary": "米Eureka Crystal Beadsなどが扱うTOHOチャレンジ2025のテーマは「Sonoran Sunset」。アメリカ・ソノラ砂漠の夕焼けをイメージした、温かみのある銅色系のTOHOビーズとStarmanチェコガラスの配色パレットが選ばれた。参加者はこのパレット内の色のみを使い、自由な技法・素材でオリジナル作品を制作して応募する。",
+      "sourceName": "Eureka Crystal Beads",
+      "sourceUrl": "https://eurekacrystalbeads.com/blogs/toho-challenge-2025-sonoran-sunset",
+      "verificationQuote": "Create an original design in the medium of your choice using only these TOHO and Starman colors from the TOHO Challenge 2025 palette and send us a photo."
+    },
     {
       "id": "senken-shimbun-toho-beads-materials-feature-2026",
       "title": "繊研新聞がトーホービーズの経営戦略を特集、「蔵出しビーズ」と「TOHO BEADS MATERIALS」をファッション業界向けに紹介",
